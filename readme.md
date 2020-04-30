@@ -1,4 +1,7 @@
 #readme.md
+
+One extra remark; becuase my language is Dutch my day names differ from the examples provided!
+
 This assignment uses data from the UC Irvine Machine Learning Repository, 
 a popular repository for machine learning datasets. 
 In particular, we will be using the “Individual household electric power consumption Data Set” 
